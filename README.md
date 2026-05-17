@@ -4,8 +4,10 @@
   <img src="banner.png" width="100%"/>
 </p>
 
-## About Me
-- 🎓 Information Systems Student
+## 🎓About Me
+Hi, i'm noval
+a College Student and an active learner, nice to know you.
+
 
 
 ## Tools, Tech & Interests
@@ -53,25 +55,27 @@
 [![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NovalSanjaya20)
 [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ashprtx)
 
-## Currently Learning
-- Laravel
-
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNuN2c1amZqZ3J3ZzZxNnQ2MW1jazc4MDlrbGtwemJxaXptMXpyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X3YpCNG0u8BF7klZ2f/giphy.gif" width="100%">
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Novals99&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Novals99&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Novals99&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Novals99&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false" height="170"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=Novals99&theme=merko&hide_border=false&include_all_commits=true&count_private=false" height="210"/>
 
-  <img src="https://streak-stats.demolab.com/?user=Novals99&theme=shadow_green&hide_border=false" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=Novals99&theme=merko&hide_border=false" height="210"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Novals99&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="170"/>
-</p>
+# 🎮Play game with me
+<img src="https://raw.githubusercontent.com/Novals99/Novals99/snake-output/snake.svg" alt="Snake animation" />
+
+
+<div align="left">
+  <a href="https://open.spotify.com/user/21ilf5oyv8acm52e5d6u4y7xg">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21ilf5oyv8acm52e5d6u4y7xg&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+

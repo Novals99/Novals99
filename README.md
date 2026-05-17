@@ -1,6 +1,8 @@
 
 # Hello World! I'm Noval Sanjaya👋
-![Noval Sanjaya](img.png)
+<p align="center">
+  <img src="imguy.png" width="100%" />
+</p>
 
 ## About Me
 - 🎓 Information Systems Student
@@ -16,7 +18,7 @@
 - Linux Server
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHFkenZpMmU2dmVuZ3dmbjZ6a2Z4M2l1eWl0YWIwZmQzZnphNTBrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iyQPHdr7uEgxxzBSWi/giphy.gif" width="100%">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNuN2c1amZqZ3J3ZzZxNnQ2MW1jazc4MDlrbGtwemJxaXptMXpyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X3YpCNG0u8BF7klZ2f/giphy.gif" width="100%">
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

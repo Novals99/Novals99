@@ -60,13 +60,13 @@ a College Student and an active learner, nice to know you.
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNuN2c1amZqZ3J3ZzZxNnQ2MW1jazc4MDlrbGtwemJxaXptMXpyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X3YpCNG0u8BF7klZ2f/giphy.gif" width="100%">
 </p>
 
-## 📊 GitHub Stats:
+<!--## 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Novals99&theme=merko&hide_border=false&include_all_commits=true&count_private=false" height="170"/>
 
   <img src="https://streak-stats.demolab.com/?user=Novals99&theme=merko&hide_border=false" height="170"/>
-</p>
+</p>-->
 
 ## 🎵Spotify
 <div align="left">
